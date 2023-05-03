@@ -6,4 +6,6 @@ public class HomePage {
     // new manu
 
     //logo
+
+    //footer
 }
